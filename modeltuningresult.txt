@@ -1,0 +1,324 @@
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 107.63465072690819
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 107.63465072690819
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 107.63465072690819
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4017.944680387467
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4017.944680387467
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4017.944680387467
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.5765840315566
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.5765840315566
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.5765840315566
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3506.309688902694
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3506.309688902694
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3506.309688902694
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 111.32955896061975
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 111.32955896061975
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 111.32955896061975
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4422.044494876569
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4422.044494876569
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4422.044494876569
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 107.63465072690819
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 107.63465072690819
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 107.63465072690819
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4017.944680387467
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4017.944680387467
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4017.944680387467
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.5765840315566
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.5765840315566
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.5765840315566
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3506.309688902694
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3506.309688902694
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3506.309688902694
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 111.32955896061975
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 111.32955896061975
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 111.32955896061975
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4422.044494876569
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4422.044494876569
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4422.044494876569
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 107.63465072690819
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 107.63465072690819
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 107.63465072690819
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4017.944680387467
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4017.944680387467
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4017.944680387467
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.5765840315566
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.5765840315566
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.5765840315566
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3506.309688902694
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3506.309688902694
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3506.309688902694
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 111.32955896061975
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 111.32955896061975
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 111.32955896061975
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4422.044494876569
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4422.044494876569
+{'changepoint_prior_scale': 15, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4422.044494876569
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 108.47852127156943
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 108.47852127156943
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 108.47852127156943
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4781.628775158558
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4781.628775158558
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4781.628775158558
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 110.16297989215968
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 110.16297989215968
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 110.16297989215968
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3259.4420756619206
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3259.4420756619206
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3259.4420756619206
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 99.27095822699945
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 99.27095822699945
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 99.27095822699945
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4612.453720583045
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4612.453720583045
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4612.453720583045
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 108.47852127156943
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 108.47852127156943
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 108.47852127156943
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4781.628775158558
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4781.628775158558
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4781.628775158558
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 110.16297989215968
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 110.16297989215968
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 110.16297989215968
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3259.4420756619206
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3259.4420756619206
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3259.4420756619206
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 99.27095822699945
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 99.27095822699945
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 99.27095822699945
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4612.453720583045
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4612.453720583045
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4612.453720583045
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 108.47852127156943
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 108.47852127156943
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 108.47852127156943
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4781.628775158558
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4781.628775158558
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4781.628775158558
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 110.16297989215968
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 110.16297989215968
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 110.16297989215968
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3259.4420756619206
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3259.4420756619206
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3259.4420756619206
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 99.27095822699945
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 99.27095822699945
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 99.27095822699945
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4612.453720583045
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4612.453720583045
+{'changepoint_prior_scale': 20, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4612.453720583045
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 100.42148941932125
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 100.42148941932125
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 100.42148941932125
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4108.422638652676
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4108.422638652676
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4108.422638652676
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.76188439498759
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.76188439498759
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.76188439498759
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3911.856117546855
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3911.856117546855
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3911.856117546855
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 101.65692219130045
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 101.65692219130045
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 101.65692219130045
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 6546.365291290249
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 6546.365291290249
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 15, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 6546.365291290249
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 100.42148941932125
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 100.42148941932125
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 100.42148941932125
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4108.422638652676
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4108.422638652676
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4108.422638652676
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.76188439498759
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.76188439498759
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.76188439498759
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3911.856117546855
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3911.856117546855
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3911.856117546855
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 101.65692219130045
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 101.65692219130045
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 101.65692219130045
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 6546.365291290249
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 6546.365291290249
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 20, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 6546.365291290249
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 100.42148941932125
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 100.42148941932125
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 100.42148941932125
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4108.422638652676
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4108.422638652676
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 100, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 4108.422638652676
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.76188439498759
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.76188439498759
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 104.76188439498759
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3911.856117546855
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3911.856117546855
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 150, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 3911.856117546855
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 101.65692219130045
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 101.65692219130045
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 101.65692219130045
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 15}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 6546.365291290249
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 20}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 6546.365291290249
+{'changepoint_prior_scale': 25, 'holidays_prior_scale': 25, 'n_changepoints': 200, 'seasonality_mode': 'additive', 'seasonality_prior_scale': 25}
+Mean Absolute Percentage Error(MAPE)------------------------------------ 6546.365291290249

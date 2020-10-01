@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Microsoft SQL Server - sisqualFORECASTDATA@deti-sql-aulas.ua.pt" uuid="5439d200-2654-422a-a6fa-3fd6e1eb539c">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>Database Sisqual</remarks>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://deti-sql-aulas.ua.pt;database=sisqualFORECASTDATA</jdbc-url>
+    </data-source>
+  </component>
+</project>

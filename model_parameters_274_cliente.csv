@@ -1,0 +1,17 @@
+	MAPE	Parameters
+0	87.79108781920961	{'changepoint_prior_scale': 0.5, 'holidays_prior_scale': 0.5, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative'}
+1	598.7290044938429	{'changepoint_prior_scale': 0.5, 'holidays_prior_scale': 0.5, 'n_changepoints': 150, 'seasonality_mode': 'additive'}
+2	87.1535494230241	{'changepoint_prior_scale': 0.5, 'holidays_prior_scale': 0.5, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative'}
+3	296.1684022358386	{'changepoint_prior_scale': 0.5, 'holidays_prior_scale': 0.5, 'n_changepoints': 200, 'seasonality_mode': 'additive'}
+4	87.79108781920961	{'changepoint_prior_scale': 0.5, 'holidays_prior_scale': 10, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative'}
+5	598.7290044938429	{'changepoint_prior_scale': 0.5, 'holidays_prior_scale': 10, 'n_changepoints': 150, 'seasonality_mode': 'additive'}
+6	87.1535494230241	{'changepoint_prior_scale': 0.5, 'holidays_prior_scale': 10, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative'}
+7	296.1684022358386	{'changepoint_prior_scale': 0.5, 'holidays_prior_scale': 10, 'n_changepoints': 200, 'seasonality_mode': 'additive'}
+8	71.55099483625717	{'changepoint_prior_scale': 10, 'holidays_prior_scale': 0.5, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative'}
+9	267.5437205695412	{'changepoint_prior_scale': 10, 'holidays_prior_scale': 0.5, 'n_changepoints': 150, 'seasonality_mode': 'additive'}
+10	69.78483041803113	{'changepoint_prior_scale': 10, 'holidays_prior_scale': 0.5, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative'}
+11	744.1044169168714	{'changepoint_prior_scale': 10, 'holidays_prior_scale': 0.5, 'n_changepoints': 200, 'seasonality_mode': 'additive'}
+12	71.55099483625717	{'changepoint_prior_scale': 10, 'holidays_prior_scale': 10, 'n_changepoints': 150, 'seasonality_mode': 'multiplicative'}
+13	267.5437205695412	{'changepoint_prior_scale': 10, 'holidays_prior_scale': 10, 'n_changepoints': 150, 'seasonality_mode': 'additive'}
+14	69.78483041803113	{'changepoint_prior_scale': 10, 'holidays_prior_scale': 10, 'n_changepoints': 200, 'seasonality_mode': 'multiplicative'}
+15	744.1044169168714	{'changepoint_prior_scale': 10, 'holidays_prior_scale': 10, 'n_changepoints': 200, 'seasonality_mode': 'additive'}
