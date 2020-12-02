@@ -1,1 +1,2 @@
-path = '/Users/clonyjr/Library/Mobile Documents/com~apple~CloudDocs/Aveiro/UA/CLONY/Bolsas/Forecast/prophet'
+path = '/home/sisqual/PycharmProjects/prophet'
+csvpath = '/home/sisqual/Documentos/Sisqual'
